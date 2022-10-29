@@ -1,16 +1,13 @@
-### Hi there 👋
+- Hi, I’m @tarunnjoshi
+- I’m interested in Web Development
+- I’m currently learning laravel,SpringBoot.
+- How to reach me [LinkedIn](https://www.linkedin.com/in/tarun-joshi-a57323234)
 
-<!--
-**tarunnjoshi/tarunnjoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :computer: Work
 
-Here are some ideas to get you started:
+- [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Negi's github activity graph](https://activity-graph.herokuapp.com/graph?username=Abhishek25081999&theme=xcode)](https://git.io/tarunnjoshi)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tarunnjoshi)](https://git.io/tarunnjoshi)

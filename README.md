@@ -1,7 +1,7 @@
 # 👋 About Me
 Hi, I'm **Tarun Joshi**!  
 - 👨‍💻 Passionate about **Web Development**
-- 🛠️ Currently learning **Laravel**, **PHP**, **WordPress**, **RapidPro**, and **Tableau**
+- 🛠️ Currently working on **problem-solving through technology** to address real-world challenges.
 - 🌱 Love to solve problems and build useful products
 
 ### 🌐 Connect with me:
@@ -13,9 +13,9 @@ Hi, I'm **Tarun Joshi**!
 
 ### 💼 Projects
 - 🚀 [**Employee Portal**](https://github.com/ColoredCow/portal) - A centralized platform for organizational operations and employee management.
-- 🍽️ **MegaFitMeals** - A family-owned business offering prepped meals for a healthy lifestyle.  
+- 🍽️ [**MegaFitMeals**](https://megafitmeals.com/) - A family-owned business offering prepped meals for a healthy lifestyle.  
   *Technologies: WordPress, WooCommerce, PHP, Javascript, jQuery*
-- 🌱 **SankalpTaru** - An IT-enabled, environmentally-focused NGO addressing afforestation and water conservation across 28 states in India.  
+- 🌱 [**SankalpTaru**](https://sankalptaru.org/) - An IT-enabled, environmentally-focused NGO addressing afforestation and water conservation across 28 states in India.  
   *Technologies: React Native, Laravel, WordPress*
 - 👑 **Prince's Trust International** - The UK's leading youth charity supporting young people with education, employment, and mental health.  
   *Technologies: RapidPro, Tableau*

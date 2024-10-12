@@ -13,6 +13,14 @@ Hi, I'm **Tarun Joshi**!
 
 ### 💼 Projects
 - 🚀 [**Employee Portal**](https://github.com/ColoredCow/portal) - A centralized platform for organizational operations and employee management.
+- 🍽️ **MegaFitMeals** - A family-owned business offering prepped meals for a healthy lifestyle.  
+  *Technologies: WordPress, WooCommerce, PHP, Javascript, jQuery*
+- 🌱 **SankalpTaru** - An IT-enabled, environmentally-focused NGO addressing afforestation and water conservation across 28 states in India.  
+  *Technologies: React Native, Laravel, WordPress*
+- 👑 **Prince's Trust International** - The UK's leading youth charity supporting young people with education, employment, and mental health.  
+  *Technologies: RapidPro, Tableau*
+- 🧥 **Goonj** - A non-profit focused on disaster relief, community development, and clothing needs in India, awarded the Ramon Magsaysay Award.  
+  *Technologies: CiviCRM, PHP, WordPress, JavaScript*
 
 ---
 
@@ -27,22 +35,33 @@ Hi, I'm **Tarun Joshi**!
 
 ---
 
-### 🛠️ Tech Stack:
-<p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p>
+### 🛠️ Technical Skillset
 
-### 💻 Tools:
-<p align="center">
-  <img src="https://img.shields.io/badge/git-%23E44C30.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/powershell-5391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="Powershell" />
-  <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D.svg?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="Windows Terminal" />
-</p>
+#### Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Frameworks
+![WordPress](https://img.shields.io/badge/wordpress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Tools
+![Git](https://img.shields.io/badge/git-%23E44C30.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![WP-CLI](https://img.shields.io/badge/wpcli-%2327619C.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![RapidPro](https://img.shields.io/badge/rapidpro-%23006994.svg?style=for-the-badge&logo=rapidpro&logoColor=white)
+![Tableau](https://img.shields.io/badge/tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 

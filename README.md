@@ -15,7 +15,7 @@ Hi, I'm **Tarun Joshi**!
 - 🚀 [**Employee Portal**](https://github.com/ColoredCow/portal) - A centralized platform for organizational operations and employee management.
 - 🍽️ [**MegaFitMeals**](https://megafitmeals.com/) - A family-owned business offering prepped meals for a healthy lifestyle.  
   *Technologies: WordPress, WooCommerce, PHP, Javascript, jQuery*
-  - 🧥 **Goonj** - A non-profit focused on disaster relief, community development, and clothing needs in India, awarded the Ramon Magsaysay Award.  
+- 🧥 **Goonj** - A non-profit focused on disaster relief, community development, and clothing needs in India, awarded the Ramon Magsaysay Award.  
   *Technologies: CiviCRM, PHP, WordPress, JavaScript*
 - 🌱 [**SankalpTaru**](https://sankalptaru.org/) - An IT-enabled, environmentally-focused NGO addressing afforestation and water conservation across 28 states in India.  
   *Technologies: React Native, Laravel, WordPress*

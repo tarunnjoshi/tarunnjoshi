@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Tarun%20Joshi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Tech%20Lead&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Tarun%20Joshi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;Tech+Lead+%40+ColoredCow;React+%26+Next.js+Expert+%E2%9A%A1;CiviCRM+Specialist+%F0%9F%94%A7;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;React+%26+Next.js+Expert+%E2%9A%A1;CiviCRM+Specialist+%F0%9F%94%A7;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-joshi-a57323234)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tarunnjoshi)
@@ -17,13 +17,13 @@
 
 ```javascript
 const tarun = {
-  role      : "Frontend Developer & Tech Lead",
+  role      : "Frontend Developer",
   company   : "ColoredCow, Haryana 🇮🇳",
   location  : "Almora, Uttarakhand",
   experience: "3.5+ years",
   education : "B.Tech — THDC-IHET Tehri (UTU, 2022)",
   focus     : ["React", "Next.js", "CiviCRM", "Blockchain"],
-  currentWork: "Tech Lead @ Sparklegacy (Digital Legacy Platform)",
+  currentWork: "Sparklegacy — Digital Legacy Platform",
   funFact   : "I automated 90% of Goonj NGO's manual operations 🏆"
 };
 ```
@@ -41,7 +41,7 @@ const tarun = {
 
 | Project | Description | Tech Stack | Links |
 |--------|-------------|-----------|-------|
-| ⛓️ **Sparklegacy** | Digital legacy platform with blockchain-based digital wills. Leading as Tech Lead — frontend architecture, product strategy & system design | `Next.js` `Django` `Blockchain` `Web3` `TypeScript` | 🔒 Private |
+| ⛓️ **Sparklegacy** | Digital legacy platform with blockchain-based digital wills — frontend architecture, product strategy & system design | `Next.js` `Django` `Blockchain` `Web3` `TypeScript` | 🔒 Private |
 | 💛 **Goonj** | Transitioned India's iconic NGO from manual to fully automated ops. Open-source CiviCRM extensions for Razorpay & WhatsApp (Glific) | `CiviCRM` `WordPress` `PHP` `Razorpay` `WhatsApp API` | [🔗 Goonj.org](https://goonj.org) |
 | 🌱 **SankalpTaru** | Award-winning step-counting & gamification platform. **Top Innovator — WEF UpLink** & **8th e-North East Award 2023** | `React` `React Native` `Laravel` `WordPress` | [🔗 SankalpTaru.org](https://sankalptaru.org) |
 | 🥗 **MegaFitMeals** | E-commerce platform for US-based meal delivery company. Custom checkout, Klaviyo + ShipStation integrations | `WordPress` `WooCommerce` `PHP` `Klaviyo` `ShipStation` | [🔗 MegaFitMeals.com](https://megafitmeals.com) |

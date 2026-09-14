@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Tarun%20Joshi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;React+%26+Next.js+Expert+%E2%9A%A1;CiviCRM+Specialist+%F0%9F%94%A7;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;React+%26+Next.js+Expert+%E2%9A%A1;CiviCRM+Specialist+%F0%9F%94%A7;Open+Source+Contributor+%F0%9F%8C%9F)](https://github.com/DenverCoder1/readme-typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-joshi-a57323234)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tarunnjoshi)
@@ -30,7 +30,7 @@ const tarun = {
 
 - 🚀 Building **production-grade web applications** for 3.5+ years
 - 🔭 Currently leading **Sparklegacy** — a blockchain-based digital legacy platform
-- 🌱 Passionate about **open source** — contributed CiviCRM extensions used globally
+- 🌱 **Open source** — 3 PRs merged into **CiviCRM core** (shipped in 6.15 / 6.16 / 6.17) + CiviCRM extensions for Razorpay & WhatsApp (Glific)
 - 🏆 **Top Innovator Award** by UpLink (World Economic Forum) for SankalpTaru
 - 💡 Reduced NGO operational effort by **90%** through CiviCRM automation at Goonj
 - 📫 Reach me at **tarun12joshi@gmail.com**
@@ -42,11 +42,31 @@ const tarun = {
 | Project | Description | Tech Stack | Links |
 |--------|-------------|-----------|-------|
 | ⛓️ **Sparklegacy** | Digital legacy platform with blockchain-based digital wills — frontend architecture, product strategy & system design | `Next.js` `Django` `Blockchain` `Web3` `TypeScript` | 🔒 Private |
-| 💛 **Goonj** | Transitioned India's iconic NGO from manual to fully automated ops. Open-source CiviCRM extensions for Razorpay & WhatsApp (Glific) | `CiviCRM` `WordPress` `PHP` `Razorpay` `WhatsApp API` | [🔗 Goonj.org](https://goonj.org) |
+| 💛 **Goonj** | Transitioned India's iconic NGO from manual to fully automated ops. Open-source CiviCRM extensions for Razorpay & WhatsApp (Glific) | `CiviCRM` `WordPress` `PHP` `Razorpay` `WhatsApp API` | [🔗 Goonj.org](https://goonj.org) · [💻 GitHub](https://github.com/ColoredCow/goonj) |
 | 🌱 **SankalpTaru** | Award-winning step-counting & gamification platform. **Top Innovator — WEF UpLink** & **8th e-North East Award 2023** | `React` `React Native` `Laravel` `WordPress` | [🔗 SankalpTaru.org](https://sankalptaru.org) |
 | 🥗 **MegaFitMeals** | E-commerce platform for US-based meal delivery company. Custom checkout, Klaviyo + ShipStation integrations | `WordPress` `WooCommerce` `PHP` `Klaviyo` `ShipStation` | [🔗 MegaFitMeals.com](https://megafitmeals.com) |
 | 👑 **Prince's Trust International** | Educational chatbot for UK's leading youth charity — guided students to certifications & career placements | `RapidPro` `Tableau` `EdTech` | 🔒 Private |
 | 🏢 **Employee Portal** | Centralized platform for organizational operations and employee management at ColoredCow | `React` `Laravel` `MySQL` | [🔗 GitHub](https://github.com/ColoredCow/portal) |
+
+---
+
+## 🧩 Open Source — CiviCRM Contributions
+
+### ✅ Merged into CiviCRM Core
+
+| PR | What it fixes | Shipped in |
+|----|---------------|-----------|
+| [#35463](https://github.com/civicrm/civicrm-core/pull/35463) **Per-request caching on hot paths** | `CRM_Extension_Mapper::getModules()` was querying `civicrm_extension` ~8,700× per page load (~41% of all queries on a contact summary page). Added `Civi::$statics` caching there and in `CoreUtil::getOptionValueFields()`. | ![6.15](https://img.shields.io/badge/CiviCRM-6.15-81C459?style=flat-square) |
+| [#35425](https://github.com/civicrm/civicrm-core/pull/35425) **MailingJob `writeToDB()` performance** | Removed redundant `Activity.create` API calls, repeated lookups and per-contact duplicate-check queries during bulk sends — cuts ~250K+ queries on a 250K-recipient mailing. | ![6.16](https://img.shields.io/badge/CiviCRM-6.16-81C459?style=flat-square) |
+| [#36350](https://github.com/civicrm/civicrm-core/pull/36350) **Fix "View / Edit Multiple Choice Options" link** | Regression fix: the custom-field edit form's options button opened *Custom Field Groups* after the options screen moved to SearchKit/Afform. Re-pointed it to the new route with `option_group_id`. | ![6.17](https://img.shields.io/badge/CiviCRM-6.17-81C459?style=flat-square) |
+
+### 🔌 CiviCRM Extensions
+
+| Extension | Description | Links |
+|-----------|-------------|-------|
+| 💬 **civiglific** | WhatsApp for CiviCRM via [Glific](https://glific.org) — sync CiviCRM groups to Glific collections, send contribution receipts & messages on WhatsApp. Author & maintainer. | [💻 GitHub](https://github.com/tarunnjoshi/civiglific) |
+| 💳 **civirazorpay** | Razorpay payment processor for CiviCRM (UPI, cards, netbanking). Extended for Goonj with recurring subscriptions, webhook deadlock-retry, and settlement/reconciliation crons. | [💻 GitHub](https://github.com/ColoredCow/civirazorpay) · [📦 Extensions Directory](https://civicrm.org/extensions/razorpay-payment-processor) · [🍴 Goonj fork](https://github.com/ColoredCow/goonj/tree/main/wp-content/civi-extensions/civirazorpay) |
+| 🏗️ **goonjcustom** | Goonj's core CiviCRM extension — collection camps, urban planned visits, volunteer & event workflows, PAN verification, recurring-donation reminders, duplicate-contact merging, AWS SES mailing. Lead developer & top contributor on the Goonj repo (2,200+ commits). | [💻 GitHub](https://github.com/ColoredCow/goonj/tree/main/wp-content/civi-extensions/goonjcustom) |
 
 ---
 
@@ -91,12 +111,12 @@ const tarun = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tarunnjoshi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunnjoshi&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.hackclub.dev/api?username=tarunnjoshi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=tarunnjoshi&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunnjoshi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="50%" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=tarunnjoshi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 ---
@@ -104,14 +124,21 @@ const tarun = {
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tarunnjoshi&theme=tokyonight&no-frame=true&row=1&column=6" width="98%" />
+
+![WEF UpLink](https://img.shields.io/badge/%F0%9F%8F%86_Top_Innovator-WEF_UpLink_%28SankalpTaru%29-7C3AED?style=for-the-badge)
+![e-North East Award](https://img.shields.io/badge/%F0%9F%A5%87_8th_e--North_East_Award-2023-7C3AED?style=for-the-badge)
+![CiviCRM Core](https://img.shields.io/badge/%F0%9F%A7%A9_CiviCRM_Core_Contributor-3_PRs_merged_%286.15%E2%80%936.17%29-81C459?style=for-the-badge)
+![Goonj](https://img.shields.io/badge/%F0%9F%92%9B_Goonj-90%25_ops_automated-F59E0B?style=for-the-badge)
+
 </div>
 
 ---
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tarunnjoshi&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<div align="center">
+  <img src="https://ghchart.rshah.org/7c3aed/tarunnjoshi" alt="Tarun Joshi's GitHub contribution chart" width="100%" />
+</div>
 
 ---
 

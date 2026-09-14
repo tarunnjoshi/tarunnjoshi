@@ -111,12 +111,13 @@ const tarun = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.hackclub.dev/api?username=tarunnjoshi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=tarunnjoshi&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarunnjoshi&theme=tokyonight" alt="GitHub stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=tarunnjoshi&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=tarunnjoshi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tarunnjoshi&theme=tokyonight" alt="Top languages by repo" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tarunnjoshi&theme=tokyonight" alt="Top languages by commit" />
 </div>
 
 ---

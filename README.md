@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-joshi-a57323234)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tarunnjoshi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://tarunnjoshi.github.io/portfolio)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarun12joshi@gmail.com)
 
 </div>
@@ -126,10 +125,7 @@ const tarun = {
 
 <div align="center">
 
-![WEF UpLink](https://img.shields.io/badge/%F0%9F%8F%86_Top_Innovator-WEF_UpLink_%28SankalpTaru%29-7C3AED?style=for-the-badge)
-![e-North East Award](https://img.shields.io/badge/%F0%9F%A5%87_8th_e--North_East_Award-2023-7C3AED?style=for-the-badge)
 ![CiviCRM Core](https://img.shields.io/badge/%F0%9F%A7%A9_CiviCRM_Core_Contributor-3_PRs_merged_%286.15%E2%80%936.17%29-81C459?style=for-the-badge)
-![Goonj](https://img.shields.io/badge/%F0%9F%92%9B_Goonj-90%25_ops_automated-F59E0B?style=for-the-badge)
 
 </div>
 
@@ -157,8 +153,4 @@ const tarun = {
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=100&section=footer" width="100%"/>
-
-  **⭐ If you like my work, consider starring my repos!**
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=tarunnjoshi&color=7c3aed&style=for-the-badge&label=Profile+Views)
 </div>
